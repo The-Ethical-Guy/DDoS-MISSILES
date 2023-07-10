@@ -1,4 +1,4 @@
-# DOS-MISSILES
+# DDoS-MISSILES
 <img alt="wifi-atk" src="github/icons/doslogo.png" height="40%" width="100%" />
 
 # About
@@ -23,31 +23,32 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
  <li>Support all browsers</li>
  </ul>
 
-# DOS-MISSILES how to install and use
+# DDoS-MISSILES how to install and use
 
-
+```
 apt update
-
-
+```
+```
 apt install git
-
-
+```
+```
 git clone https://github.com/EBLIS-TOOLS/DDoS-MISSILES.git
-
-
+```
+```
 cd DDoS-MISSILES
-
+```
 
 # How to run the tool
 
-
+```
 apt install python3  
-
-
-pip3 install -r requirements.txt
-
-
-python3.11 ddos-missiles.py
+```
+```
+pip install requirements.txt
+```
+```
+python3 ddos-missiles.py
+```
 
 # Screenshot
 
