@@ -23,9 +23,9 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
  <li>Support all browsers</li>
  </ul>
 
-# What type of target ports tools support ? 
+# What the ports that the tools support ? 
 
-| Service name   | The Port | You can attack?    |
+| Service Name   | The Port | You can attack?    |
 | -------------- |--------- | ------------------ |
 | HTTP           |    80    | :white_check_mark: |
 | HTTPS          |   443    | :white_check_mark: |
