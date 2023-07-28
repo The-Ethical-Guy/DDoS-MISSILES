@@ -1,5 +1,5 @@
 # DDoS-MISSILES
-<img alt="wifi-atk" src="github/icons/doslogo.png" height="40%" width="100%" />
+<img alt="dos" src=".github/icons/doslogo.png" height="40%" width="100%" />
 
 # About
 <b>A very powerful DDoS attack tool</b>
