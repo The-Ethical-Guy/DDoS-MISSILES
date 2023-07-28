@@ -19,11 +19,11 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
 
 <ul>
  <li>Creat a ddos missiles to attack any website</li>
- <li>Start the attack on any port</li>
+ <li>Start the attack on any port you anter</li>
  <li>Support all browsers</li>
  </ul>
 
-# What the ports that the tools support ? 
+# What the ports thet you can attack ? 
 
 | Service Name   | The Port | You can attack?    |
 | -------------- |--------- | ------------------ |
