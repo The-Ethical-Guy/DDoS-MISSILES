@@ -6,10 +6,10 @@
 The most powerful tool that creates a ddos attack on websites, it creates the attack in the form of missiles
 
 # SYSTEM REQUIREMENTS
- <ul>
- <li>Python Version 3.11.2</li>
- <li>Kali Version 2022.4</li>
- </ul>
+| Requirements   | Version            |
+| -------------- | ------------------ |
+| python         | 3.11.2             |
+| Kali           | 2022.4             |
 
 # Social media links
 the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
