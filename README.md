@@ -27,13 +27,13 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
 
 | Service name   | The Port | You can attack?    |
 | -------------- |--------- | ------------------ |
-| HTTP           |          | :white_check_mark: |
-| HTTPS          |          | :white_check_mark: |
-| SSH            |          | :white_check_mark: |
-| SMTP           |          | :white_check_mark: |
-| DNS            |          | :white_check_mark: |
-| FTP            |          | :white_check_mark: |
-| RDP            |          | :white_check_mark: |
+| HTTP           |    80    | :white_check_mark: |
+| HTTPS          |   443    | :white_check_mark: |
+| SSH            |    22    | :white_check_mark: |
+| SMTP           |    25    | :white_check_mark: |
+| DNS            |    53    | :white_check_mark: |
+| FTP            |    21    | :white_check_mark: |
+| RDP            |   3389   | :white_check_mark: |
 
 
 # DDoS-MISSILES how to install and use
