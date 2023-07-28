@@ -66,4 +66,4 @@ python3 ddos-missiles.py
 # Screenshot
 
 
-<img alt="wifi-atk" src="github/icons/dos2.png" height="40%" width="100%" />
+<img alt="dos" src=".github/icons/dos2.png" height="40%" width="100%" />
