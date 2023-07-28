@@ -24,15 +24,15 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
  </ul>
 
 # What type of target ports tools support ?  
-| Target ports   | You can attack?    |
-| -------------- | ------------------ |
-| HTTP           | :white_check_mark: |
-| HTTPS          | :white_check_mark: |
-| SSH            | :white_check_mark: |
-| SMTP           | :white_check_mark: |
-| DNS            | :white_check_mark: |
-| FTP            | :white_check_mark: |
-| RDP            | :white_check_mark: |
+| Service name   | The Port | You can attack?    |
+| -------------- |--------- | ------------------ |
+| HTTP           |          | :white_check_mark: |
+| HTTPS          |          | :white_check_mark: |
+| SSH            |          | :white_check_mark: |
+| SMTP           |          | :white_check_mark: |
+| DNS            |          | :white_check_mark: |
+| FTP            |          | :white_check_mark: |
+| RDP            |          | :white_check_mark: |
 
 
 
