@@ -45,7 +45,7 @@ apt update
 apt install git
 ```
 ```
-git clone https://github.com/EBLIS-TOOLS/DDoS-MISSILES.git
+git clone https://github.com/The-Ethical-Guy/DDoS-MISSILES.git
 ```
 ```
 cd DDoS-MISSILES
